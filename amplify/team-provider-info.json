@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-logisticsapp-dev-195011-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443235412478:role/amplify-logisticsapp-dev-195011-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443235412478:role/amplify-logisticsapp-dev-195011-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-logisticsapp-dev-195011-deployment",
+      "UnauthRoleName": "amplify-logisticsapp-dev-195011-unauthRole",
+      "StackName": "amplify-logisticsapp-dev-195011",
+      "StackId": "arn:aws:cloudformation:us-east-1:443235412478:stack/amplify-logisticsapp-dev-195011/e1d085c0-9f42-11ec-808e-0e02d93817b9",
+      "AmplifyAppId": "dhz8lxwbux1q8",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-logisticsapp-dev-195011-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      },
+      "function": {
+        "logisticsapp15578482": {
+          "deploymentBucketName": "amplify-logisticsapp-dev-195011-deployment",
+          "s3Key": "amplify-builds/logisticsapp15578482-414c3362506b306b6c4b-build.zip"
+        }
+      }
+    }
+  }
+}
